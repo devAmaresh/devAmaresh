@@ -17,4 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devAmaresh&show_icons=true&locale=en&layout=compact" alt="devAmaresh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devAmaresh&show_icons=true&locale=en" alt="devAmaresh" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devAmaresh&" alt="devAmaresh" /></p>
