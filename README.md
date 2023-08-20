@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devAmaresh" alt="devAmaresh" /></a> </p>-->
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT,PHP,LARAVEL** and eager to learn AI/ML
+- 🌱 I’m currently learning **FULL STACK DEVELOPMENT,PHP** and eager to learn AI/ML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
