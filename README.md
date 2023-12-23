@@ -8,7 +8,6 @@
 - 🌱 UNLOCKING CREATIVITY ONE PIXEL AT A TIME
 - Exploring the depths of the coding universe... ready to keep up?
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
