@@ -5,7 +5,7 @@
 <p align="left">🚀 A passionate coding enthusiast and an undergrad at IIITA. Unlocking the potential of ones and zeros !</p>
 
 ###
-<p align="left">🌎 Check my <a href="https://amareshh.vercel.app" target="_blank">portfolio</a></p>
+
 <p align="left">➡️Passionate to create amazing software experiences .. <br>➡️Ready to keep up?</p>
 
 ###
