@@ -1,23 +1,60 @@
-<h1 align="left">Hi 👋, I'm Amaresh</h2>
+<h1 align="center">Hi 👋, I'm Amaresh</h1>
+<h3 align="center">Developer | ML Enthusiast | Blockchain Buff | Undergrad @ IIITA</h3>
 
-<h3 align="left">A developer and machine learning enthusiast with a passion for blockchain technology.</h1>
-<p align="left">🚀 A passionate coding enthusiast and an undergrad at IIITA. Unlocking the potential of ones and zeros !</p>
+<p align="center">
+🚀 Turning coffee ☕ into code — unlocking the potential of ones and zeros every day!
+</p>
 
-###
+---
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Cryptography](https://img.shields.io/badge/Cryptography-%2300C7B7.svg?style=for-the-badge&logo=openssl&logoColor=white)  ![Bitcoin](https://img.shields.io/badge/Bitcoin-%23F7931A.svg?style=for-the-badge&logo=bitcoin&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img src="https://img.shields.io/badge/Cryptography-00C7B7?style=for-the-badge&logo=openssl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devAmaresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=devAmaresh&theme=dark&hide_border=false)<br/>  -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devAmaresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 📊 GitHub Stats
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaresh-prasad-07bb612aa) <br/>
-<a href="https://amareshh.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devAmaresh&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="Amaresh's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAmaresh&theme=merko&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
 
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amaresh-prasad-07bb612aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://amareshh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🧠 Always learning. Forever curious. Let’s build something amazing!
+</p>
