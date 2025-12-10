@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devAmaresh&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="180" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAmaresh&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41" height="180" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
